@@ -1,1 +1,5 @@
-print("Hello World")
+print("Escape Charactert\t\tUse")
+print("\t\\n\t\t\tNewline")
+print("\t\\t\t\t\tSpace/tab")
+print("\t\\'\t\t\tSingle Quote")
+print('\t\\"\t\t\tDouble Quote')
