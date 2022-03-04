@@ -1,0 +1,5 @@
+rollno=int(input("Enter Roll No:"))
+name=input("Enter name:")
+percent=int(input("Enter percentage:"))
+print("Rollno\tName\tPercentage")
+print(" {}\t {}\t {}".format(rollno,name,percent))
